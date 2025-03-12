@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=5500&pause=1500&color=00FF00&multiline=true&random=false&width=450&lines=Hajtuszko+Blender+3D!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=40&duration=3000&pause=1000&color=9D24F7&vCenter=true&multiline=true&width=435&height=200&lines=Hajtuszko;Blender+3D)](https://git.io/typing-svg)
 <!--
 **hajtuszko/hajtuszko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
